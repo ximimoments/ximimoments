@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ximimoments
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning with chat gpt
-- 💞️ I’m looking to collaborate on peoples :)
+- 💞️ I’m looking to collaborate with people
 - 📫 How to reach me. idk
 - 😄 Pronouns: Vale or ximi
-- ⚡ Fun fact: I'm programming in katifetch
+- ⚡ Fun fact: I'm programming in katifetch and in katifetchscreenshots I collect katifetch screenshots from different OS, WSL, etc.
 
 <!---
 ximimoments/ximimoments is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
