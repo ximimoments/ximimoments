@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate with people
 - 📫 How to reach me. idk
 - 😄 Pronouns: Vale or ximi
-- ⚡ Fun fact: I'm programming in katifetch and in katifetchscreenshots I collect katifetch screenshots from different OS, WSL, etc.
+- ⚡ Fun fact: I'm programming in katifetch and in katifetchscreenshots I collect katifetch screenshots from different OS, WSL, etc.![68747470733a2f2f6d656469612e74656e6f722e636f6d2f53363156434f37336d4f41414141416a2f6c696e75782d7475782e676966](https://github.com/user-attachments/assets/b2fc3a05-0f1f-41ac-9ad8-c05a3272d090)
+
 
 <!---
 ximimoments/ximimoments is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
